@@ -1,11 +1,10 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1038px;
+  min-height: 884px;
 }
 
 .u-section-1 .u-slider-1 {
   width: 1191px;
   min-height: 841px;
-  height: auto;
   margin: 43px -51px 0 auto;
 }
 
@@ -162,6 +161,7 @@
   .u-section-1 .u-slider-1 {
     width: 940px;
     min-height: 828px;
+    height: auto;
     margin-right: 0;
   }
 
